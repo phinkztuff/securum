@@ -1,0 +1,7 @@
+1. Form validation - date, spaces for text
+2. What if guard and employee will have same password and id - have another button for guard login
+3. Browser can still access *con.php
+4. Vpaa can access guardpage and vice versa - DONE 	
+5. Modal/UI which will add a details to visitors table - Done
+6. Fields looks like readonly even though it is not readonly - DONE
+7. No confirm button for button that doesn't open modal	
